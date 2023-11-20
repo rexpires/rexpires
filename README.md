@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, Renan Pires aqui 👋
 
-<!--
-**rexpires/rexpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Experiência em diversas áreas como Engenharia, Desenvolvimento de Produtos, Comercial, Logística e Qualidade.
 
-Here are some ideas to get you started:
+🎓 Graduado em engenharia de produção pelo Centro Universitário da FEI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 SP, Brasil.
+
+🌱 Meus principais temas de estudo atualmente são: SQL, Power BI e Estatística.
+
+
+*Se desejar, você pode entrar em contato comigo através do meu perfil do LinkedIn, o link está logo abaixo.*
+
+</div>
+<div style="display: inline_block"><br>
+
+  <a href="https://www.linkedin.com/in/renanopp/" target="_blank"><img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>     
+          
+          
+</div>
