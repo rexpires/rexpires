@@ -1,15 +1,15 @@
 ### Olá, Renan Pires aqui 👋
 
-👨‍💻 Experiência em diversas áreas como Engenharia, Desenvolvimento de Produtos, Comercial, Logística e Qualidade.
+👨‍💻 Tenho experiência em diversas áreas como Projetos de Engenharia, Desenvolvimento de Produtos, Comercial, Logística e Qualidade.
 
-🎓 Graduado em engenharia de produção pelo Centro Universitário da FEI. 
+🎓 Sou graduado em engenharia de produção pelo Centro Universitário da FEI. 
 
 📍 SP, Brasil.
 
-🌱 Meus principais temas de estudo atualmente são: SQL, Power BI e Estatística.
+🌱 Meus principais temas de estudo são: SQL, Power BI e Estatística.
 
 
-*Se desejar, você pode entrar em contato comigo através do meu perfil do LinkedIn, o link está logo abaixo.*
+*Segue abaixo o link para meu LinkedIn!*
 
 </div>
 <div style="display: inline_block"><br>
