@@ -1,6 +1,6 @@
 ### Olá, Renan Pires aqui 👋
 
-👨‍💻 Tenho experiência em diversas áreas como Projetos de Engenharia, Desenvolvimento de Produtos, Comercial, Logística e Qualidade.
+👨‍💻 Tenho 10 anos de experiência profissional, passando por em diversas áreas como: Projetos, Desenvolvimento de Produtos, Comercial, Logística e Qualidade.
 
 🎓 Sou graduado em engenharia de produção pelo Centro Universitário da FEI. 
 
