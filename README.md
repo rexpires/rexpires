@@ -6,7 +6,7 @@
 
 📍 SP, Brasil.
 
-🌱 Meus principais temas de estudo são: SQL, Power BI e Estatística.
+🌱 Meus principais temas de estudo no momento são: SQL, Python e Power BI.
 
 
 *Segue abaixo o link para meu LinkedIn!*
